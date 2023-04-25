@@ -11,12 +11,12 @@ programa
 		leia(num2)
 
 		escreva("A multiplicação desses números é: ")
-		escreva("\n",multiplicacao(num1, num2))
+		escreva(multiplicacao(num1, num2),"\n")
 		escrever_linha()
 	}
 	funcao escrever_linha()
 	{
-		escreva("\n**************************\n")
+		escreva("**************************\n")
 	}
 	funcao real multiplicacao(real num1, real num2)
 	{
