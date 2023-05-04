@@ -1,7 +1,7 @@
 programa
 {
 	
-	funcao inicio()
+	funcao repete_boas_vindas()
 	{
 		inteiro num_pessoas,homens = 0,mulheres = 0
 		cadeia nome
@@ -28,8 +28,8 @@ programa
 				mulheres = mulheres + 1
 			}
 		}
-				escreva("Homens cumprimentados: ",homens)
-				escreva("\nMulheres cumprimentadas: ",mulheres)
+	escreva("Homens cumprimentados: ",homens)
+	escreva("\nMulheres cumprimentadas: ",mulheres)
 	}
 }
 /* $$$ Portugol Studio $$$ 
