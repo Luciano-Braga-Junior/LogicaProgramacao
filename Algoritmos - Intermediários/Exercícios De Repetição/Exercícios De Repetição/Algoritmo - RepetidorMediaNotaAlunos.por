@@ -1,7 +1,7 @@
 programa
 {
 	
-	funcao inicio()
+	funcao repetidor_media_nota()
 	{
 		real quantidade_alunos,nota1,nota2,media,media_turma,soma_notas = 0.0
 
