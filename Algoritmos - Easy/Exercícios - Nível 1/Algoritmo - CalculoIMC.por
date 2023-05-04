@@ -1,9 +1,10 @@
 programa
 {
 	
-	funcao inicio()
+	funcao calculo_imc()
 	{
 		real peso,altura,imc
+		
 		escreva("Informe qual seu peso? ")
 		leia(peso)
 		escreva("Informe qual sua altura? ")
@@ -12,7 +13,6 @@ programa
 		imc = peso/(altura*altura)
 		escreva("IMC = " + imc)
 		escreva("\n")
-		
 		
 		se(imc < 17)
 		{
