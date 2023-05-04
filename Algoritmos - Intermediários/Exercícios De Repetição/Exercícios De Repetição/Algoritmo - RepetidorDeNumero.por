@@ -1,7 +1,7 @@
 programa
 {
 	
-	funcao inicio()
+	funcao repetidor_de_numero()
 	{
 		inteiro numero, soma = 0
 		caracter controle
