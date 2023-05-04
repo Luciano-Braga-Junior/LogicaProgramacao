@@ -2,6 +2,7 @@ programa
 {
 	inclua biblioteca ServicosWeb --> WS
 	inclua biblioteca Texto --> txt
+	
 	cadeia cep
 	cadeia endereco, endereco_sem_cep,posicao
 	inteiro caracteres
