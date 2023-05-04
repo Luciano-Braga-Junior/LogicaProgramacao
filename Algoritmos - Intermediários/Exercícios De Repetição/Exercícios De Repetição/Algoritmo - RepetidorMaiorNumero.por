@@ -1,7 +1,7 @@
 programa
 {
 	
-	funcao inicio()
+	funcao repetidor_maior_numero()
 	{
 		inteiro numero
 		inteiro maior_numero = 0
@@ -11,6 +11,7 @@ programa
 		para(inteiro controle = 1; controle <= 5;controle++)
 		{
 			leia(numero)
+			
 			se(numero > maior_numero)
 			{
 				maior_numero = numero
