@@ -1,7 +1,7 @@
 programa
 {
 	
-	funcao inicio()
+	funcao media_de_duas_notas()
 	{
 		real num1, num2, media
 
@@ -14,6 +14,7 @@ programa
 		escreva("\n")
 		escreva("Sua média foi " + media)
 		escreva("\n")
+		
 		se(media > 6)
 		{
 			escreva("*********************** \n")
