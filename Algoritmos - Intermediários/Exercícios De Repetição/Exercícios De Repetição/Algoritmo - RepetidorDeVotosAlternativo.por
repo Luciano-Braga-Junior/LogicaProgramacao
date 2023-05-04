@@ -1,13 +1,10 @@
 programa
 {
 	
-	funcao inicio()
+	funcao repetidor_de_voto_alternativo()
 	{
-		inteiro numero_eleitores, coringa=0, batman=0, labareda=0,
-		robim=0, batGirl=0, nulo=0, maior_total_votos=0
-			
+		inteiro numero_eleitores, coringa = 0, batman = 0, labareda = 0, robim=0, batGirl = 0, nulo = 0, maior_total_votos = 0
 		cadeia voto, candidato_eleito
-
 		cadeia  candidatos[6]={"nulo","coringa","batman","labareda","batgirl","robim"}
 		inteiro votos[6]
 		
@@ -23,52 +20,63 @@ programa
 			{
 				coringa++
 				votos[1]++
+				
 				se(coringa > maior_total_votos)
 				{
 					maior_total_votos = coringa
 					candidato_eleito = "Coringa"
 				}
-			}senao se(voto == "22") 
+			}
+			senao se(voto == "22") 
 			{
 				batman++
 				votos[2]++
+				
 				se(batman > maior_total_votos)
 				{
 					maior_total_votos = batman
 					candidato_eleito = "Batman"
 				}
-			}senao se(voto == "55")
+			}
+			senao se(voto == "55")
 			{
 				labareda++
 				votos[3]++
+				
 				se(labareda > maior_total_votos)
 				{
 					maior_total_votos = labareda
 					candidato_eleito = "Labareda"
 				}
-			}senao se(voto == "12")
+			}
+			senao se(voto == "12")
 			{
 				
 				robim++
 				votos[4]++
+				
 				se(robim > maior_total_votos)
 				{
 					maior_total_votos = robim
 					candidato_eleito = "Robim"
 				}
-			}senao se(voto == "15")
+			}
+			senao se(voto == "15")
 			{
 				batGirl++
 				votos[5]++
+				
 				se(batGirl > maior_total_votos)
 				{
 					maior_total_votos = batGirl
 					candidato_eleito = "Batgirl"
 				}
-			}senao
+			}
+			senao
 			{
 				nulo++
 				votos[0]++
+				
 				se(nulo > maior_total_votos)
 				{
 					maior_total_votos = nulo
