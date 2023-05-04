@@ -46,7 +46,7 @@ programa
 		escreva("\n")
 		escreva("Notas necessárias: ")
 		quant_notas = valor / 1
-		escreva(quant_notas, " notas(s) de R$1,00 ")
+		escreva(quant_notas," notas(s) de R$1,00 ")
 		valor = valor - (quant_notas * 1)
 	}
 }
