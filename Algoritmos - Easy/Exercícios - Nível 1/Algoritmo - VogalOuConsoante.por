@@ -1,7 +1,7 @@
 programa
 {
 	
-	funcao inicio()
+	funcao vogal_ou_consoante()
 	{
 		caracter letra
 
