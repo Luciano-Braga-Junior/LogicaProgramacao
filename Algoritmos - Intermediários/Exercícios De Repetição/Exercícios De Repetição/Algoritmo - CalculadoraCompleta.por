@@ -1,10 +1,11 @@
 programa
 {
 	
-	funcao inicio()
+	funcao calculadora_completa()
 	{
 		inteiro opcao_escolhida = 1
 		inteiro numero, repetir = 6
+		
 		faca
 		{	
 			limpa()
@@ -15,7 +16,6 @@ programa
 			escreva("1 - Adição\n")
 			escreva("2 - Subtração\n")
 			escreva("3 - Multiplicação\n")
-
 			escreva("4 - Divisão\n")
 			escreva("5 - Sair\n")
 			
@@ -24,6 +24,7 @@ programa
 			escolha(opcao_escolhida)
 			{
 				caso 1:
+				
 				faca
 				{
 					limpa()
@@ -41,6 +42,7 @@ programa
 				}enquanto(repetir !=7)	
 				pare	
 					caso 2:
+					
 					faca
 					{
 						limpa()
@@ -57,6 +59,7 @@ programa
 					}enquanto(repetir!=7)	
 					pare		
 						caso 3:
+						
 						faca
 						{
 							limpa()
@@ -73,6 +76,7 @@ programa
 						}enquanto(repetir!=7)	
 						pare		
 							caso 4:
+							
 							faca
 							{
 								limpa()
