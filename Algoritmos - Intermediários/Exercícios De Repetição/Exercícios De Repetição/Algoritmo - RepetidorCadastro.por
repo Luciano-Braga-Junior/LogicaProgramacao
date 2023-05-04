@@ -1,11 +1,12 @@
 programa
 {
 	
-	funcao inicio()
+	funcao repete_cadastro()
 	{
 		cadeia login1,login2,senha1,senha2
 		logico verdade = verdadeiro
 		logico errado = falso
+		
 		faca
 		{
 			escreva("Digite seu login: ")
@@ -21,10 +22,12 @@ programa
 			}
 		
 		enquanto(errado)
+		
 		faca
 		{
 			escreva("Digite seu login: ")
 			leia(login2)
+			
 			se(login2 == login1)
 			{
 				escreva("Você não pode usar esse login!\n")
@@ -37,7 +40,7 @@ programa
 		}
 		enquanto(errado)
 		}
-		enquanto(verdade
+		enquanto(verdade)
 }
 /* $$$ Portugol Studio $$$ 
  * 
