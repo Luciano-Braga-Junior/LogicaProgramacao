@@ -3,11 +3,8 @@ programa
 	
 	funcao inicio()
 	{
-		inteiro numero_eleitores, coringa=0, batman=0, labareda=0,
-		robim=0, batGirl=0, nulo=0, maior_total_votos=0
-			
+		inteiro numero_eleitores, coringa = 0, batman = 0, labareda = 0, robim = 0, batGirl = 0, nulo = 0, maior_total_votos = 0 	
 		cadeia voto, candidato_eleito
-
 		cadeia  candidatos[6]={"nulo","coringa","batman","labareda","batgirl","robim"}
 		inteiro votos[6]
 		
