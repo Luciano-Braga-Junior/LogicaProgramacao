@@ -1,7 +1,7 @@
 programa
 {
 	
-	funcao inicio()
+	funcao repetidor_de_idade()
 	{
 		inteiro idade, cont_criancas = 0, cont_pre_adolescente = 0, cont_adolescente = 0, cont_adulto = 0, cont_idoso = 0
 
@@ -9,6 +9,7 @@ programa
 		{
 			escreva("Digite a idade da pessoa ",controle,": ")
 			leia(idade)
+			
 			se(idade <= 9)
 			{
 				cont_criancas = cont_criancas + 1
