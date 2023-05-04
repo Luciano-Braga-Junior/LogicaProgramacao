@@ -1,7 +1,7 @@
 programa
 {
 	
-	funcao inicio()
+	funcao maior_ou_menor_numero()
 	{
 		inteiro num1,num2,num3
 
