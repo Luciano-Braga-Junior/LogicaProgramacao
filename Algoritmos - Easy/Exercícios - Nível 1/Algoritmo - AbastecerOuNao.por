@@ -1,7 +1,7 @@
 programa
 {
 	
-	funcao inicio()
+	funcao abastecer_carro()
 	{
 		real km_por_litro, litros_atuais, distancia_desejada, distancia_maxima, litros_para_abastecer
 
