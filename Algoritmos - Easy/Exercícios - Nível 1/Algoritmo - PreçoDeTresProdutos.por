@@ -1,7 +1,7 @@
 programa
 {
 	
-	funcao inicio()
+	funcao melhor_escolha_de_compra()
 	{
 		cadeia produto1, produto2, produto3
 		real preco_produto1, preco_produto2, preco_produto3
