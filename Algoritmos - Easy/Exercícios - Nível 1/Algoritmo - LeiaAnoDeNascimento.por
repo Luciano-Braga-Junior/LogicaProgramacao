@@ -1,7 +1,7 @@
 programa
 {
 	
-	funcao inicio()
+	funcao identificador_de_idade()
 	{
 		const inteiro ano_atual = 2023
 		inteiro ano_nascimento,sua_idade
