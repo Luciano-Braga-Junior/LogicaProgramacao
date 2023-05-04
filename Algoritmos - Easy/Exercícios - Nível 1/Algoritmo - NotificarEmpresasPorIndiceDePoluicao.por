@@ -1,9 +1,10 @@
 programa
 {
 	
-	funcao inicio()
+	funcao indice_de_poluicao()
 	{
 		real indice_de_poluicao
+		
 		escreva("Informe o indice de poluição: ")
 		leia(indice_de_poluicao)
 
