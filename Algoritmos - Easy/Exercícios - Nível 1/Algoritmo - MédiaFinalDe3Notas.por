@@ -1,7 +1,7 @@
 programa
 {
 	
-	funcao inicio()
+	funcao media_final_de_tres_notas()
 	{
 		real num1,num2,num3,media,soma
 		escreva("Informe a primeira nota: ")
