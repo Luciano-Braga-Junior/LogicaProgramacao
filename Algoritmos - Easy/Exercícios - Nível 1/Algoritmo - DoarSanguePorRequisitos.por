@@ -1,7 +1,7 @@
 programa
 {
 	
-	funcao inicio()
+	funcao requisitos_para_doar_sangue()
 	{
 		inteiro idade
 		real peso
@@ -9,6 +9,7 @@ programa
 
 		escreva("Qual sua idade? \n")
 		leia(idade)
+		
 		se(idade >= 19 e idade <= 69)
 		{
 			escreva("Qual seu peso? \n")
