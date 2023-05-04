@@ -1,7 +1,7 @@
 programa
 {
 	
-	funcao inicio()
+	funcao identifica_menor_numero_inteiro()
 	{
 		inteiro num1,num2,num3
 
