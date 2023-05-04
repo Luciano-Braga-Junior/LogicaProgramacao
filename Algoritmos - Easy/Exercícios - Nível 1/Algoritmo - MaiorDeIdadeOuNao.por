@@ -1,7 +1,7 @@
 programa
 {
 	
-	funcao inicio()
+	funcao maior_de_idade_ou_nao()
 	{
 		inteiro idade
 
