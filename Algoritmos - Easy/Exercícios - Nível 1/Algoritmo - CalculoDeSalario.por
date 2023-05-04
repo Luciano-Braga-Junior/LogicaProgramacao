@@ -1,9 +1,10 @@
 programa
 {
 	
-	funcao inicio()
+	funcao calculo_salario()
 	{
 		real codigo, horas_trabalhadas, salario_total, excesso
+		
 		escreva("Informe as horas trabalhadas: ")
 		leia(horas_trabalhadas)
 		
