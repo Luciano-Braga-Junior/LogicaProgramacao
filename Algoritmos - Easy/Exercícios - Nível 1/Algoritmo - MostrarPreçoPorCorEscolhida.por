@@ -1,7 +1,7 @@
 programa
 {
 	
-	funcao inicio()
+	funcao preco_por_cor_escolhida()
 	{
 		cadeia cor_escolhida
 
