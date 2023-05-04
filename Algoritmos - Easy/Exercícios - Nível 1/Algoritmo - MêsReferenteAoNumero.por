@@ -1,7 +1,7 @@
 programa
 {
 	
-	funcao inicio()
+	funcao mes_referente_ao_numero()
 	{
 		inteiro mes
 
