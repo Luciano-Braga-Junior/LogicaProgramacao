@@ -1,7 +1,7 @@
 programa
 {
 	
-	funcao inicio()
+	funcao calcula_distancia()
 	{
 		const real passos = 0.82
 		real distancia_quilometros, distancia_passos, quantidade_passos
