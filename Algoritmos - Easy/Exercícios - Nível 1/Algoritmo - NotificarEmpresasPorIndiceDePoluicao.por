@@ -1,7 +1,7 @@
 programa
 {
 	
-	funcao indice_de_poluicao()
+	funcao inicio()
 	{
 		real indice_de_poluicao
 		
