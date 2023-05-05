@@ -1,7 +1,7 @@
 programa
 {
 	
-	funcao valor_positivo_ou_negativo()
+	funcao inicio()
 	{
 		real num1
 
