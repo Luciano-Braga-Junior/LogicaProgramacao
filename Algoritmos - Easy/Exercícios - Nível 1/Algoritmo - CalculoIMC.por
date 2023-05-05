@@ -1,7 +1,7 @@
 programa
 {
 	
-	funcao calculo_imc()
+	funcao inicio()
 	{
 		real peso,altura,imc
 		
