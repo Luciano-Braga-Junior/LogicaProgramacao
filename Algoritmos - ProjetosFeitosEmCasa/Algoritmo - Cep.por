@@ -7,7 +7,7 @@ programa
 	cadeia endereco, endereco_sem_cep,posicao
 	inteiro caracteres
 
-	funcao inicio()
+	funcao busca_endereco()
 	{
 		escreva("Digite seu Cep: ")
 		leia(cep)
