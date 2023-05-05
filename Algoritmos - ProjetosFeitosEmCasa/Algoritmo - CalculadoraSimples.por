@@ -1,7 +1,7 @@
 programa
 {
 	
-	funcao calculadora_simples()
+	funcao inicio()
 	{
 		real num1,num2,resultado
 		caracter operacao
