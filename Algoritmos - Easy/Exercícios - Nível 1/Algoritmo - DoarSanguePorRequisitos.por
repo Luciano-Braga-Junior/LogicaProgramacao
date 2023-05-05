@@ -1,7 +1,7 @@
 programa
 {
 	
-	funcao requisitos_para_doar_sangue()
+	funcao inicio()
 	{
 		inteiro idade
 		real peso
