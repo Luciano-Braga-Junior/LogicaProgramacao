@@ -1,7 +1,7 @@
 programa
 {
 	
-	funcao repete_cadastro()
+	funcao inicio()
 	{
 		cadeia login1,login2,senha1,senha2
 		logico verdade = verdadeiro
