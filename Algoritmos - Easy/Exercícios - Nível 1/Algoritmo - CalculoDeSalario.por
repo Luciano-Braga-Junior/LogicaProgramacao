@@ -1,7 +1,7 @@
 programa
 {
 	
-	funcao calculo_salario()
+	funcao inicio()
 	{
 		real codigo, horas_trabalhadas, salario_total, excesso
 		
