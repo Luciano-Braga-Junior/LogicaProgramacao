@@ -1,7 +1,7 @@
 programa
 {
 	
-	funcao repetidor_soma_numeros()
+	funcao inicio()
 	{
 		inteiro n,soma = 0
 
