@@ -1,7 +1,7 @@
 programa
 {
 	
-	funcao multiplicador()
+	funcao inicio()
 	{
 		real num1,num2
 		escrever_linha()
