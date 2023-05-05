@@ -11,6 +11,7 @@ programa
 		leia(num2)
 
 		media = (num1 + num2)/2
+		
 		escreva("\n")
 		escreva("Sua média foi " + media)
 		escreva("\n")
