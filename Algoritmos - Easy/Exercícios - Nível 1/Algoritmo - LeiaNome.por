@@ -1,7 +1,7 @@
 programa
 {
 	
-	funcao ler_nome()
+	funcao inicio()
 	{
 		cadeia nome1, nome2
 
