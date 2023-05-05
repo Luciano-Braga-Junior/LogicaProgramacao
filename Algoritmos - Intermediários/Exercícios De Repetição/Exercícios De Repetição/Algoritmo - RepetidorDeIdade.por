@@ -1,7 +1,7 @@
 programa
 {
 	
-	funcao repetidor_de_idade()
+	funcao inicio()
 	{
 		inteiro idade, cont_criancas = 0, cont_pre_adolescente = 0, cont_adolescente = 0, cont_adulto = 0, cont_idoso = 0
 
