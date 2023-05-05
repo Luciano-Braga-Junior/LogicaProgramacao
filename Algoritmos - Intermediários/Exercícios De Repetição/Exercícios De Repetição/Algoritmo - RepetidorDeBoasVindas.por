@@ -1,7 +1,7 @@
 programa
 {
 	
-	funcao repete_boas_vindas()
+	funcao inicio()
 	{
 		inteiro num_pessoas,homens = 0,mulheres = 0
 		cadeia nome
