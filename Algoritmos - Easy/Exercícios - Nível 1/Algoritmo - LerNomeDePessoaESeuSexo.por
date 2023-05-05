@@ -1,7 +1,7 @@
 programa
 {
 	
-	funcao ler_nome_e_sexo()
+	funcao inicio()
 	{
 		cadeia nome, sexo
 		caracter sexo_usuario
