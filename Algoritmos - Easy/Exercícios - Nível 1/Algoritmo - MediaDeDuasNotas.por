@@ -1,7 +1,7 @@
 programa
 {
 	
-	funcao media_de_duas_notas()
+	funcao inicio()
 	{
 		real num1, num2, media
 
