@@ -1,7 +1,7 @@
 programa
 {
 	
-	funcao repetidor_numero_impares()
+	funcao inicio()
 	{
 		inteiro numero
 
