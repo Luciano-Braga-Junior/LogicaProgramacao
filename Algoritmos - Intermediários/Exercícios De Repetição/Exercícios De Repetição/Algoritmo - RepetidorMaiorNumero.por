@@ -1,7 +1,7 @@
 programa
 {
 	
-	funcao repetidor_maior_numero()
+	funcao inicio()
 	{
 		inteiro numero
 		inteiro maior_numero = 0
