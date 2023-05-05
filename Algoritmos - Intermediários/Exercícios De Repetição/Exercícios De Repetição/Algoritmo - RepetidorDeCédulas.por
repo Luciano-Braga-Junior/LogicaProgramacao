@@ -1,7 +1,7 @@
 programa
 {
 	
-	funcao repetidor_de_cedulas()
+	funcao inicio()
 	{
 		inteiro valor,quant_notas
 
