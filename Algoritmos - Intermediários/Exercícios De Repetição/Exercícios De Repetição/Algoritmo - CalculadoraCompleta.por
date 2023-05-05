@@ -1,7 +1,7 @@
 programa
 {
 	
-	funcao calculadora_completa()
+	funcao inicio()
 	{
 		inteiro opcao_escolhida = 1
 		inteiro numero, repetir = 6
